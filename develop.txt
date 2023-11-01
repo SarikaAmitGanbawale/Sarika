@@ -1,3 +1,5 @@
 this is update to develop file
 
 i am making some changes that need to be pushed in to develop remote branch
+
+user 2 has pushed his changes
