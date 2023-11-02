@@ -5,4 +5,8 @@ day: tuesday
 today is 31st oct 2023
 and time is 07:15pm
 
+<<<<<<< HEAD
 adding details fromm local repo
+=======
+thsi is added by 2nd user
+>>>>>>> 138660980a27bc12ff577a6f29ff6c909c10a7bc
