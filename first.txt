@@ -10,5 +10,10 @@ adding details fromm local repo
 =======
 thsi is added by 2nd user
 >>>>>>> 138660980a27bc12ff577a6f29ff6c909c10a7bc
+<<<<<<< HEAD
 
 yiuyiugiugtr
+=======
+abcdefgh
+>>>>>>> d9cf9c8ef7ad506d18162a7a3360496d1a221de1
+creating changes here for conflict
