@@ -13,3 +13,7 @@ thsi is added by 2nd user
 
 yiuyiugiugtr
 creating changes here for conflict
+<<<<<<< HEAD
+=======
+changing from visual studio
+>>>>>>> 0aff9ebf21a3c99c16586163d2e5ccd079a0a969
